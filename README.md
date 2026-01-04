@@ -14,5 +14,5 @@
 <p><a target="_blank" href="https://x.com/YasirSahibzada6" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohammad Yasir Sahibzada&show_icons=true&locale=en" alt="Mohammad Yasir Sahibzada" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammad Yasir Sahibzada&" alt="Mohammad Yasir Sahibzada" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohammad Yasir Sahibzada&show_icons=true&locale=en&layout=compact" alt="Mohammad Yasir Sahibzada" /></p>
+
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mohammad Yasir Sahibzada" alt="Mohammad Yasir Sahibzada" /></a></p>
