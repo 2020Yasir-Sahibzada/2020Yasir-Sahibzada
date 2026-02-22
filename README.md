@@ -14,5 +14,3 @@
 <p><a target="_blank" href="https://x.com/YasirSahibzada5" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a></p>
 
 
-# edit added Two
-
